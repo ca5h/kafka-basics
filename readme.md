@@ -1,4 +1,4 @@
-Sample project for Kafka basics learning
+#Kafka basics learning
 
 1. kafka-basic-producer-consumer
 Module contains several examples of producing and consuming Kafka messages
