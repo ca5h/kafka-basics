@@ -11,5 +11,6 @@
     <modules>
         <module>kafka-basic-producer-consumer</module>
         <module>kafka-twitter-producer</module>
+        <module>kafka-elasticsearch-consumer</module>
     </modules>
 </project>

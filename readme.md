@@ -5,3 +5,6 @@
 
 2. kafka-twitter-producer
 - Module contains TwitterProducer that consumes messages from Twitter by specified keywords and publishes it to Kafka
+
+3. kafka-elasticsearch-consumer
+- Module contains ElasticSearchConsumer
